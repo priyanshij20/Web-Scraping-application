@@ -1,0 +1,831 @@
+2024-05-28 21:24:19,163:ERROR:Error fetching https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015: 404 Client Error: NOT FOUND for url: https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015
+2024-05-28 21:41:29,062:ERROR:Error fetching https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015: 404 Client Error: NOT FOUND for url: https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015
+2024-05-28 21:43:09,976:ERROR:Error fetching https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015: 404 Client Error: NOT FOUND for url: https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015
+2024-05-28 22:49:05,480:ERROR:Error fetching https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015: 404 Client Error: NOT FOUND for url: https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015
+2024-05-29 11:43:09,032:ERROR:Error fetching https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015: 404 Client Error: NOT FOUND for url: https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015
+2024-05-29 11:53:28,389:ERROR:Error parsing JSON data from https://www.scrapethissite.com/pages/ajax-javascript/#2015: Expecting value: line 1 column 1 (char 0)
+2024-05-29 11:55:11,228:ERROR:Error fetching https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015: 404 Client Error: NOT FOUND for url: https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015
+2024-05-29 11:55:43,561:ERROR:Error parsing JSON data from https://www.scrapethissite.com/pages/ajax-javascript/#2015: Expecting value: line 1 column 1 (char 0)
+2024-05-29 13:31:59,098:ERROR:Error parsing JSON data from https://www.scrapethissite.com/pages/ajax-javascript/#2015: Expecting value: line 1 column 1 (char 0)
+2024-05-29 13:32:00,401:ERROR:Error parsing JSON data from https://www.scrapethissite.com/pages/ajax-javascript/#2015: Expecting value: line 1 column 1 (char 0)
+2024-05-29 13:50:39,335:ERROR:Error parsing JSON data from https://www.scrapethissite.com/pages/ajax-javascript/#2015: Expecting value: line 1 column 1 (char 0)
+2024-05-29 14:00:48,636:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:00:50,713:DEBUG:https://www.scrapethissite.com:443 "GET /pages/ajax-javascript/data?year=2015 HTTP/1.1" 404 None
+2024-05-29 14:00:50,717:ERROR:Error fetching https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015: 404 Client Error: NOT FOUND for url: https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015
+2024-05-29 14:00:50,722:ERROR:Failed to fetch AJAX data
+2024-05-29 14:00:50,724:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:00:53,310:DEBUG:https://www.scrapethissite.com:443 "GET /pages/forms/ HTTP/1.1" 200 None
+2024-05-29 14:00:54,001:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/forms/
+2024-05-29 14:00:54,039:DEBUG:Forms Data: []
+2024-05-29 14:00:54,041:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:00:56,070:DEBUG:https://www.scrapethissite.com:443 "GET /pages/advanced/ HTTP/1.1" 200 None
+2024-05-29 14:00:56,296:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/advanced/
+2024-05-29 14:00:56,317:DEBUG:Advanced Data: []
+2024-05-29 14:00:56,318:DEBUG:Done
+2024-05-29 14:03:56,075:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:03:57,913:DEBUG:https://www.scrapethissite.com:443 "GET /pages/ajax-javascript/data?year=2015 HTTP/1.1" 404 None
+2024-05-29 14:03:57,913:ERROR:Error fetching https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015: 404 Client Error: NOT FOUND for url: https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015
+2024-05-29 14:03:57,915:ERROR:Failed to fetch AJAX data
+2024-05-29 14:03:57,917:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:04:00,599:DEBUG:https://www.scrapethissite.com:443 "GET /pages/forms/ HTTP/1.1" 200 None
+2024-05-29 14:04:01,054:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/forms/
+2024-05-29 14:04:01,145:DEBUG:Forms Data: []
+2024-05-29 14:04:01,148:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:04:05,409:DEBUG:https://www.scrapethissite.com:443 "GET /pages/advanced/ HTTP/1.1" 200 None
+2024-05-29 14:04:05,410:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/advanced/
+2024-05-29 14:04:05,430:DEBUG:Advanced Data: []
+2024-05-29 14:04:05,430:DEBUG:Done
+2024-05-29 14:04:46,711:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:04:48,406:DEBUG:https://www.scrapethissite.com:443 "GET /pages/ajax-javascript/data?year=2015 HTTP/1.1" 404 None
+2024-05-29 14:04:48,408:ERROR:Error fetching https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015: 404 Client Error: NOT FOUND for url: https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015
+2024-05-29 14:04:48,413:ERROR:Failed to fetch AJAX data
+2024-05-29 14:04:48,420:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:04:55,074:DEBUG:https://www.scrapethissite.com:443 "GET /pages/forms/ HTTP/1.1" 200 None
+2024-05-29 14:04:55,236:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/forms/
+2024-05-29 14:04:55,292:DEBUG:Forms Data: []
+2024-05-29 14:04:55,293:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:04:56,698:DEBUG:https://www.scrapethissite.com:443 "GET /pages/advanced/ HTTP/1.1" 200 None
+2024-05-29 14:04:56,699:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/advanced/
+2024-05-29 14:04:56,717:DEBUG:Advanced Data: []
+2024-05-29 14:04:56,717:DEBUG:Done
+2024-05-29 14:05:08,572:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:05:09,969:DEBUG:https://www.scrapethissite.com:443 "GET /pages/ajax-javascript/data?year=2015 HTTP/1.1" 404 None
+2024-05-29 14:05:09,971:ERROR:Error fetching https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015: 404 Client Error: NOT FOUND for url: https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015
+2024-05-29 14:05:09,976:ERROR:Failed to fetch AJAX data
+2024-05-29 14:05:09,979:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:05:11,311:DEBUG:https://www.scrapethissite.com:443 "GET /pages/forms/ HTTP/1.1" 200 None
+2024-05-29 14:05:12,286:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/forms/
+2024-05-29 14:05:12,346:DEBUG:Forms Data: []
+2024-05-29 14:05:12,347:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:05:13,632:DEBUG:https://www.scrapethissite.com:443 "GET /pages/advanced/ HTTP/1.1" 200 None
+2024-05-29 14:05:13,633:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/advanced/
+2024-05-29 14:05:13,649:DEBUG:Advanced Data: []
+2024-05-29 14:05:13,650:DEBUG:Done
+2024-05-29 14:05:45,181:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:05:53,674:DEBUG:https://www.scrapethissite.com:443 "GET /pages/ajax-javascript/data?year=2015 HTTP/1.1" 404 None
+2024-05-29 14:05:53,677:ERROR:Error fetching https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015: 404 Client Error: NOT FOUND for url: https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015
+2024-05-29 14:05:53,686:ERROR:Failed to fetch AJAX data
+2024-05-29 14:05:53,691:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:05:56,051:DEBUG:https://www.scrapethissite.com:443 "GET /pages/forms/ HTTP/1.1" 200 None
+2024-05-29 14:05:56,054:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/forms/
+2024-05-29 14:05:56,109:DEBUG:Forms Data: []
+2024-05-29 14:05:56,111:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:05:57,675:DEBUG:https://www.scrapethissite.com:443 "GET /pages/advanced/ HTTP/1.1" 200 None
+2024-05-29 14:05:57,675:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/advanced/
+2024-05-29 14:05:57,682:DEBUG:Advanced Data: []
+2024-05-29 14:05:57,683:DEBUG:Done
+2024-05-29 14:30:06,140:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:30:07,863:DEBUG:https://www.scrapethissite.com:443 "GET /pages/ajax-javascript/data?year=2015 HTTP/1.1" 404 None
+2024-05-29 14:30:08,705:ERROR:Error fetching https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015: 404 Client Error: NOT FOUND for url: https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015
+2024-05-29 14:30:08,711:ERROR:Failed to fetch AJAX data
+2024-05-29 14:30:08,715:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:30:10,752:DEBUG:https://www.scrapethissite.com:443 "GET /pages/forms/ HTTP/1.1" 200 None
+2024-05-29 14:30:10,905:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/forms/
+2024-05-29 14:30:10,948:DEBUG:Forms Data: []
+2024-05-29 14:30:10,949:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:30:12,477:DEBUG:https://www.scrapethissite.com:443 "GET /pages/advanced/ HTTP/1.1" 200 None
+2024-05-29 14:30:12,478:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/advanced/
+2024-05-29 14:30:12,488:DEBUG:Advanced Data: []
+2024-05-29 14:30:12,488:DEBUG:Done
+2024-05-29 14:37:56,163:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:38:07,848:DEBUG:https://www.scrapethissite.com:443 "GET /pages/ajax-javascript/data?year=2015 HTTP/1.1" 404 None
+2024-05-29 14:38:07,849:ERROR:Error fetching https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015: 404 Client Error: NOT FOUND for url: https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015
+2024-05-29 14:38:07,851:ERROR:Failed to fetch AJAX data
+2024-05-29 14:38:07,853:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:38:11,502:DEBUG:https://www.scrapethissite.com:443 "GET /pages/forms/ HTTP/1.1" 200 None
+2024-05-29 14:38:11,831:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/forms/
+2024-05-29 14:38:11,928:DEBUG:Forms Data: []
+2024-05-29 14:38:11,931:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:38:13,852:DEBUG:https://www.scrapethissite.com:443 "GET /pages/advanced/ HTTP/1.1" 200 None
+2024-05-29 14:38:13,853:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/advanced/
+2024-05-29 14:38:13,860:DEBUG:Advanced Data: []
+2024-05-29 14:38:13,860:DEBUG:Done
+2024-05-29 14:40:47,126:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:40:50,636:DEBUG:https://www.scrapethissite.com:443 "GET /pages/ajax-javascript/data?year=2015 HTTP/1.1" 404 None
+2024-05-29 14:40:50,639:ERROR:Error fetching https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015: 404 Client Error: NOT FOUND for url: https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015
+2024-05-29 14:40:50,647:ERROR:Failed to fetch AJAX data
+2024-05-29 14:40:50,651:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:40:52,348:DEBUG:https://www.scrapethissite.com:443 "GET /pages/forms/ HTTP/1.1" 200 None
+2024-05-29 14:40:52,649:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/forms/
+2024-05-29 14:40:52,714:DEBUG:Forms Data: []
+2024-05-29 14:40:52,715:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:40:54,554:DEBUG:https://www.scrapethissite.com:443 "GET /pages/advanced/ HTTP/1.1" 200 None
+2024-05-29 14:40:54,556:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/advanced/
+2024-05-29 14:40:54,586:DEBUG:Advanced Data: []
+2024-05-29 14:40:54,587:DEBUG:Done
+2024-05-29 14:46:02,297:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:46:04,150:DEBUG:https://www.scrapethissite.com:443 "GET /pages/ajax-javascript/?ajax=true&year=2015 HTTP/1.1" 200 None
+2024-05-29 14:46:04,151:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/ajax-javascript/?ajax=true&year=2015
+2024-05-29 14:46:04,152:DEBUG:Raw response content: [
+  {
+    "title": "Spotlight  ",
+    "year": 2015,
+    "awards": 2,
+    "nominations": 6,
+    "best_picture": true
+  },
+  {
+    "title": "Mad Max: Fury Road ",
+    "year": 2015,
+    "awards": 6,
+    "nominations": 10
+  },
+  {
+    "title": "The Revenant   ",
+    "year": 2015,
+    "awards": 3,
+    "nominations": 12
+  },
+  {
+    "title": "Bridge of Spies",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 6
+  },
+  {
+    "title": "The Big Short  ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 5
+  },
+  {
+    "title": "The Danish Girl",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 4
+  },
+  {
+    "title": "Room   ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 4
+  },
+  {
+    "title": "Ex Machina ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "title": "The Hateful Eight  ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "title": "Inside Out ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "tit
+2024-05-29 14:46:04,163:DEBUG:AJAX Data: [{'title': 'Spotlight  ', 'year': 2015, 'awards': 2, 'nominations': 6, 'best_picture': True}, {'title': 'Mad Max: Fury Road ', 'year': 2015, 'awards': 6, 'nominations': 10}, {'title': 'The Revenant   ', 'year': 2015, 'awards': 3, 'nominations': 12}, {'title': 'Bridge of Spies', 'year': 2015, 'awards': 1, 'nominations': 6}, {'title': 'The Big Short  ', 'year': 2015, 'awards': 1, 'nominations': 5}, {'title': 'The Danish Girl', 'year': 2015, 'awards': 1, 'nominations': 4}, {'title': 'Room   ', 'year': 2015, 'awards': 1, 'nominations': 4}, {'title': 'Ex Machina ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'The Hateful Eight  ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'Inside Out ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'Amy', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Bear Story ', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'A Girl in the River: The Price of Forgiveness  ', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Son of Saul', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Spectre', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Stutterer  ', 'year': 2015, 'awards': 1, 'nominations': 1}]
+2024-05-29 14:46:04,164:DEBUG:{"message": "Server selection started", "selector": "<function writable_server_selector at 0x000002BA4E382C00>", "operation": "insert", "operationId": -1077241407, "topologyDescription": "<TopologyDescription id: 6656f25293db11cd99f25064, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Standalone, rtt: 0.0>]>", "clientId": {"$oid": "6656f25293db11cd99f25064"}}
+2024-05-29 14:46:04,165:DEBUG:{"message": "Server selection succeeded", "selector": "<function writable_server_selector at 0x000002BA4E382C00>", "operation": "insert", "operationId": -1077241407, "topologyDescription": "<TopologyDescription id: 6656f25293db11cd99f25064, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Standalone, rtt: 0.0>]>", "clientId": {"$oid": "6656f25293db11cd99f25064"}, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 14:46:04,172:DEBUG:{"clientId": {"$oid": "6656f25293db11cd99f25064"}, "message": "Command started", "command": "{\"insert\": \"ajax_data\", \"ordered\": true, \"lsid\": {\"id\": {\"$binary\": {\"base64\": \"tcBn9+6kR/6SDvQXMoMtjw==\", \"subType\": \"04\"}}}, \"$db\": \"scraped_data\", \"documents\": [{\"title\": \"Spotlight  \", \"year\": 2015, \"awards\": 2, \"nominations\": 6, \"best_picture\": true, \"_id\": {\"$oid\": \"6656f25493db11cd99f25065\"}}, {\"title\": \"Mad Max: Fury Road \", \"year\": 2015, \"awards\": 6, \"nominations\": 10, \"_id\": {\"$oid\": \"6656f25493db11cd99f25066\"}}, {\"title\": \"The Revenant   \", \"year\": 2015, \"awards\": 3, \"nominations\": 12, \"_id\": {\"$oid\": \"6656f25493db11cd99f25067\"}}, {\"title\": \"Bridge of Spies\", \"year\": 2015, \"awards\": 1, \"nominations\": 6, \"_id\": {\"$oid\": \"6656f25493db11cd99f25068\"}}, {\"title\": \"The Big Short  \", \"year\": 2015, \"awards\": 1, \"nominations\": 5, \"_id\": {\"$oid\": \"6656f25493db11cd99f25069\"}}, {\"title\": \"The Danish Girl\", \"year\": 2015, \"awards\": 1, \"nominations\": 4, \"_id\": {\"$oid\": \"6656f25493db11cd99f2506a\"}}, {\"title\": \"Room   \", \"year\": 2015, \"awards\": 1, \"nominations\": 4, \"_id\": {\"$oid\": \"6656f2549...", "commandName": "insert", "databaseName": "scraped_data", "requestId": 18467, "operationId": 18467, "driverConnectionId": 1, "serverConnectionId": 56, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 14:46:04,288:DEBUG:{"clientId": {"$oid": "6656f25293db11cd99f25064"}, "message": "Command succeeded", "durationMS": 116.835, "reply": "{\"n\": 16, \"ok\": 1.0}", "commandName": "insert", "databaseName": "scraped_data", "requestId": 18467, "operationId": 18467, "driverConnectionId": 1, "serverConnectionId": 56, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 14:46:04,288:DEBUG:Inserted 16 documents into ajax_data collection
+2024-05-29 14:46:04,289:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:46:08,032:DEBUG:https://www.scrapethissite.com:443 "GET /pages/forms/ HTTP/1.1" 200 None
+2024-05-29 14:46:08,517:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/forms/
+2024-05-29 14:46:08,573:DEBUG:Forms Data: []
+2024-05-29 14:46:08,575:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:46:10,553:DEBUG:https://www.scrapethissite.com:443 "GET /pages/advanced/ HTTP/1.1" 200 None
+2024-05-29 14:46:10,625:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/advanced/
+2024-05-29 14:46:10,645:DEBUG:Advanced Data: []
+2024-05-29 14:46:10,646:DEBUG:Done
+2024-05-29 14:55:59,329:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:56:11,325:DEBUG:https://www.scrapethissite.com:443 "GET /pages/ajax-javascript/data?year=2015 HTTP/1.1" 404 None
+2024-05-29 14:56:11,595:ERROR:Error fetching https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015: 404 Client Error: NOT FOUND for url: https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015
+2024-05-29 14:56:11,599:ERROR:Failed to fetch AJAX data
+2024-05-29 14:56:11,605:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:56:16,327:DEBUG:https://www.scrapethissite.com:443 "GET /pages/forms/ HTTP/1.1" 200 None
+2024-05-29 14:56:16,558:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/forms/
+2024-05-29 14:56:16,558:DEBUG:Raw HTML content: <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Hockey Teams: Forms, Searching and Pagination | Scrape This Site | A public sandbox for learning web scraping</title>
+    <link rel="icon" type="image/png" href="/static/images/scraper-icon.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Browse through a database of NHL team stats since 1990. Practice building a scraper that handles common website interface components.">
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
+
+   
+2024-05-29 14:56:16,613:DEBUG:Forms Data: []
+2024-05-29 14:56:16,615:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:56:19,029:DEBUG:https://www.scrapethissite.com:443 "GET /pages/advanced/ HTTP/1.1" 200 None
+2024-05-29 14:56:19,286:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/advanced/
+2024-05-29 14:56:19,286:DEBUG:Raw HTML content: <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Advanced Topics: Real World Challenges You&#39;ll Encounter | Scrape This Site | A public sandbox for learning web scraping</title>
+    <link rel="icon" type="image/png" href="/static/images/scraper-icon.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Scraping real websites, you&#39;re likely run into a number of common gotchas. Get practice with spoofing headers, handling logins &amp; session cookies, finding CSRF tokens, and other common network errors.">
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='t
+2024-05-29 14:56:19,297:DEBUG:Advanced Data: []
+2024-05-29 14:56:19,297:DEBUG:Done
+2024-05-29 14:56:50,343:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:57:04,047:DEBUG:https://www.scrapethissite.com:443 "GET /pages/ajax-javascript/?ajax=true&year=2015 HTTP/1.1" 200 None
+2024-05-29 14:57:04,049:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/ajax-javascript/?ajax=true&year=2015
+2024-05-29 14:57:04,049:DEBUG:Raw response content: [
+  {
+    "title": "Spotlight  ",
+    "year": 2015,
+    "awards": 2,
+    "nominations": 6,
+    "best_picture": true
+  },
+  {
+    "title": "Mad Max: Fury Road ",
+    "year": 2015,
+    "awards": 6,
+    "nominations": 10
+  },
+  {
+    "title": "The Revenant   ",
+    "year": 2015,
+    "awards": 3,
+    "nominations": 12
+  },
+  {
+    "title": "Bridge of Spies",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 6
+  },
+  {
+    "title": "The Big Short  ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 5
+  },
+  {
+    "title": "The Danish Girl",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 4
+  },
+  {
+    "title": "Room   ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 4
+  },
+  {
+    "title": "Ex Machina ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "title": "The Hateful Eight  ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "title": "Inside Out ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "tit
+2024-05-29 14:57:04,056:DEBUG:AJAX Data: [{'title': 'Spotlight  ', 'year': 2015, 'awards': 2, 'nominations': 6, 'best_picture': True}, {'title': 'Mad Max: Fury Road ', 'year': 2015, 'awards': 6, 'nominations': 10}, {'title': 'The Revenant   ', 'year': 2015, 'awards': 3, 'nominations': 12}, {'title': 'Bridge of Spies', 'year': 2015, 'awards': 1, 'nominations': 6}, {'title': 'The Big Short  ', 'year': 2015, 'awards': 1, 'nominations': 5}, {'title': 'The Danish Girl', 'year': 2015, 'awards': 1, 'nominations': 4}, {'title': 'Room   ', 'year': 2015, 'awards': 1, 'nominations': 4}, {'title': 'Ex Machina ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'The Hateful Eight  ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'Inside Out ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'Amy', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Bear Story ', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'A Girl in the River: The Price of Forgiveness  ', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Son of Saul', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Spectre', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Stutterer  ', 'year': 2015, 'awards': 1, 'nominations': 1}]
+2024-05-29 14:57:04,057:DEBUG:{"message": "Server selection started", "selector": "<function writable_server_selector at 0x00000156CB0F6CA0>", "operation": "insert", "operationId": 1457163386, "topologyDescription": "<TopologyDescription id: 6656f4da79a0ad886f46896f, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Standalone, rtt: 0.0>]>", "clientId": {"$oid": "6656f4da79a0ad886f46896f"}}
+2024-05-29 14:57:04,059:DEBUG:{"message": "Server selection succeeded", "selector": "<function writable_server_selector at 0x00000156CB0F6CA0>", "operation": "insert", "operationId": 1457163386, "topologyDescription": "<TopologyDescription id: 6656f4da79a0ad886f46896f, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Standalone, rtt: 0.0>]>", "clientId": {"$oid": "6656f4da79a0ad886f46896f"}, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 14:57:04,064:DEBUG:{"clientId": {"$oid": "6656f4da79a0ad886f46896f"}, "message": "Command started", "command": "{\"insert\": \"ajax_data\", \"ordered\": true, \"lsid\": {\"id\": {\"$binary\": {\"base64\": \"JxtfC2rrQNqLltqG470bPQ==\", \"subType\": \"04\"}}}, \"$db\": \"scraped_data\", \"documents\": [{\"title\": \"Spotlight  \", \"year\": 2015, \"awards\": 2, \"nominations\": 6, \"best_picture\": true, \"_id\": {\"$oid\": \"6656f4e879a0ad886f468970\"}}, {\"title\": \"Mad Max: Fury Road \", \"year\": 2015, \"awards\": 6, \"nominations\": 10, \"_id\": {\"$oid\": \"6656f4e879a0ad886f468971\"}}, {\"title\": \"The Revenant   \", \"year\": 2015, \"awards\": 3, \"nominations\": 12, \"_id\": {\"$oid\": \"6656f4e879a0ad886f468972\"}}, {\"title\": \"Bridge of Spies\", \"year\": 2015, \"awards\": 1, \"nominations\": 6, \"_id\": {\"$oid\": \"6656f4e879a0ad886f468973\"}}, {\"title\": \"The Big Short  \", \"year\": 2015, \"awards\": 1, \"nominations\": 5, \"_id\": {\"$oid\": \"6656f4e879a0ad886f468974\"}}, {\"title\": \"The Danish Girl\", \"year\": 2015, \"awards\": 1, \"nominations\": 4, \"_id\": {\"$oid\": \"6656f4e879a0ad886f468975\"}}, {\"title\": \"Room   \", \"year\": 2015, \"awards\": 1, \"nominations\": 4, \"_id\": {\"$oid\": \"6656f4e87...", "commandName": "insert", "databaseName": "scraped_data", "requestId": 18467, "operationId": 18467, "driverConnectionId": 1, "serverConnectionId": 61, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 14:57:04,071:DEBUG:{"clientId": {"$oid": "6656f4da79a0ad886f46896f"}, "message": "Command succeeded", "durationMS": 7.225, "reply": "{\"n\": 16, \"ok\": 1.0}", "commandName": "insert", "databaseName": "scraped_data", "requestId": 18467, "operationId": 18467, "driverConnectionId": 1, "serverConnectionId": 61, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 14:57:04,071:DEBUG:Inserted 16 documents into ajax_data collection
+2024-05-29 14:57:04,075:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:57:09,924:DEBUG:https://www.scrapethissite.com:443 "GET /pages/forms/ HTTP/1.1" 200 None
+2024-05-29 14:57:10,118:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/forms/
+2024-05-29 14:57:10,118:DEBUG:Raw HTML content: <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Hockey Teams: Forms, Searching and Pagination | Scrape This Site | A public sandbox for learning web scraping</title>
+    <link rel="icon" type="image/png" href="/static/images/scraper-icon.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Browse through a database of NHL team stats since 1990. Practice building a scraper that handles common website interface components.">
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
+
+   
+2024-05-29 14:57:10,167:DEBUG:Forms Data: []
+2024-05-29 14:57:10,168:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 14:57:11,901:DEBUG:https://www.scrapethissite.com:443 "GET /pages/advanced/ HTTP/1.1" 200 None
+2024-05-29 14:57:11,907:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/advanced/
+2024-05-29 14:57:11,907:DEBUG:Raw HTML content: <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Advanced Topics: Real World Challenges You&#39;ll Encounter | Scrape This Site | A public sandbox for learning web scraping</title>
+    <link rel="icon" type="image/png" href="/static/images/scraper-icon.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Scraping real websites, you&#39;re likely run into a number of common gotchas. Get practice with spoofing headers, handling logins &amp; session cookies, finding CSRF tokens, and other common network errors.">
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='t
+2024-05-29 14:57:11,927:DEBUG:Advanced Data: []
+2024-05-29 14:57:11,928:DEBUG:Done
+2024-05-29 15:07:40,934:DEBUG:Connected to MongoDB
+2024-05-29 15:07:40,938:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 15:07:43,766:DEBUG:https://www.scrapethissite.com:443 "GET /pages/ajax-javascript/data?year=2015 HTTP/1.1" 404 None
+2024-05-29 15:07:44,389:ERROR:Error fetching https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015: 404 Client Error: NOT FOUND for url: https://www.scrapethissite.com/pages/ajax-javascript/data?year=2015
+2024-05-29 15:07:44,391:ERROR:Failed to fetch AJAX data
+2024-05-29 15:07:44,392:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 15:07:49,878:DEBUG:https://www.scrapethissite.com:443 "GET /pages/forms/ HTTP/1.1" 200 None
+2024-05-29 15:07:50,054:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/forms/
+2024-05-29 15:07:50,054:DEBUG:Raw HTML content: <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Hockey Teams: Forms, Searching and Pagination | Scrape This Site | A public sandbox for learning web scraping</title>
+    <link rel="icon" type="image/png" href="/static/images/scraper-icon.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Browse through a database of NHL team stats since 1990. Practice building a scraper that handles common website interface components.">
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
+
+   
+2024-05-29 15:07:50,101:DEBUG:Forms Data: []
+2024-05-29 15:07:50,102:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 15:07:53,789:DEBUG:https://www.scrapethissite.com:443 "GET /pages/advanced/ HTTP/1.1" 200 None
+2024-05-29 15:07:54,062:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/advanced/
+2024-05-29 15:07:54,062:DEBUG:Raw HTML content: <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Advanced Topics: Real World Challenges You&#39;ll Encounter | Scrape This Site | A public sandbox for learning web scraping</title>
+    <link rel="icon" type="image/png" href="/static/images/scraper-icon.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Scraping real websites, you&#39;re likely run into a number of common gotchas. Get practice with spoofing headers, handling logins &amp; session cookies, finding CSRF tokens, and other common network errors.">
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='t
+2024-05-29 15:07:54,071:DEBUG:Advanced Data: []
+2024-05-29 15:07:54,071:DEBUG:Done
+2024-05-29 15:08:26,033:DEBUG:Connected to MongoDB
+2024-05-29 15:08:26,036:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 15:08:30,617:DEBUG:https://www.scrapethissite.com:443 "GET /pages/ajax-javascript/?ajax=true&year=2015 HTTP/1.1" 200 None
+2024-05-29 15:08:30,618:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/ajax-javascript/?ajax=true&year=2015
+2024-05-29 15:08:30,618:DEBUG:Raw response content: [
+  {
+    "title": "Spotlight  ",
+    "year": 2015,
+    "awards": 2,
+    "nominations": 6,
+    "best_picture": true
+  },
+  {
+    "title": "Mad Max: Fury Road ",
+    "year": 2015,
+    "awards": 6,
+    "nominations": 10
+  },
+  {
+    "title": "The Revenant   ",
+    "year": 2015,
+    "awards": 3,
+    "nominations": 12
+  },
+  {
+    "title": "Bridge of Spies",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 6
+  },
+  {
+    "title": "The Big Short  ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 5
+  },
+  {
+    "title": "The Danish Girl",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 4
+  },
+  {
+    "title": "Room   ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 4
+  },
+  {
+    "title": "Ex Machina ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "title": "The Hateful Eight  ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "title": "Inside Out ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "tit
+2024-05-29 15:08:30,623:DEBUG:AJAX Data: [{'title': 'Spotlight  ', 'year': 2015, 'awards': 2, 'nominations': 6, 'best_picture': True}, {'title': 'Mad Max: Fury Road ', 'year': 2015, 'awards': 6, 'nominations': 10}, {'title': 'The Revenant   ', 'year': 2015, 'awards': 3, 'nominations': 12}, {'title': 'Bridge of Spies', 'year': 2015, 'awards': 1, 'nominations': 6}, {'title': 'The Big Short  ', 'year': 2015, 'awards': 1, 'nominations': 5}, {'title': 'The Danish Girl', 'year': 2015, 'awards': 1, 'nominations': 4}, {'title': 'Room   ', 'year': 2015, 'awards': 1, 'nominations': 4}, {'title': 'Ex Machina ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'The Hateful Eight  ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'Inside Out ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'Amy', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Bear Story ', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'A Girl in the River: The Price of Forgiveness  ', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Son of Saul', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Spectre', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Stutterer  ', 'year': 2015, 'awards': 1, 'nominations': 1}]
+2024-05-29 15:08:30,624:DEBUG:Inserting 16 documents into ajax_data collection
+2024-05-29 15:08:30,624:DEBUG:{"message": "Server selection started", "selector": "<function writable_server_selector at 0x00000289B3E66CA0>", "operation": "insert", "operationId": 1363212313, "topologyDescription": "<TopologyDescription id: 6656f792484d911d03842a4d, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Standalone, rtt: 0.0>]>", "clientId": {"$oid": "6656f792484d911d03842a4d"}}
+2024-05-29 15:08:30,625:DEBUG:{"message": "Server selection succeeded", "selector": "<function writable_server_selector at 0x00000289B3E66CA0>", "operation": "insert", "operationId": 1363212313, "topologyDescription": "<TopologyDescription id: 6656f792484d911d03842a4d, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Standalone, rtt: 0.0>]>", "clientId": {"$oid": "6656f792484d911d03842a4d"}, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 15:08:30,629:DEBUG:{"clientId": {"$oid": "6656f792484d911d03842a4d"}, "message": "Command started", "command": "{\"insert\": \"ajax_data\", \"ordered\": true, \"lsid\": {\"id\": {\"$binary\": {\"base64\": \"dSWUMVypR0uViqbwXGS/nQ==\", \"subType\": \"04\"}}}, \"$db\": \"scraped_data\", \"documents\": [{\"title\": \"Spotlight  \", \"year\": 2015, \"awards\": 2, \"nominations\": 6, \"best_picture\": true, \"_id\": {\"$oid\": \"6656f796484d911d03842a4e\"}}, {\"title\": \"Mad Max: Fury Road \", \"year\": 2015, \"awards\": 6, \"nominations\": 10, \"_id\": {\"$oid\": \"6656f796484d911d03842a4f\"}}, {\"title\": \"The Revenant   \", \"year\": 2015, \"awards\": 3, \"nominations\": 12, \"_id\": {\"$oid\": \"6656f796484d911d03842a50\"}}, {\"title\": \"Bridge of Spies\", \"year\": 2015, \"awards\": 1, \"nominations\": 6, \"_id\": {\"$oid\": \"6656f796484d911d03842a51\"}}, {\"title\": \"The Big Short  \", \"year\": 2015, \"awards\": 1, \"nominations\": 5, \"_id\": {\"$oid\": \"6656f796484d911d03842a52\"}}, {\"title\": \"The Danish Girl\", \"year\": 2015, \"awards\": 1, \"nominations\": 4, \"_id\": {\"$oid\": \"6656f796484d911d03842a53\"}}, {\"title\": \"Room   \", \"year\": 2015, \"awards\": 1, \"nominations\": 4, \"_id\": {\"$oid\": \"6656f7964...", "commandName": "insert", "databaseName": "scraped_data", "requestId": 18467, "operationId": 18467, "driverConnectionId": 1, "serverConnectionId": 66, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 15:08:30,634:DEBUG:{"clientId": {"$oid": "6656f792484d911d03842a4d"}, "message": "Command succeeded", "durationMS": 4.772, "reply": "{\"n\": 16, \"ok\": 1.0}", "commandName": "insert", "databaseName": "scraped_data", "requestId": 18467, "operationId": 18467, "driverConnectionId": 1, "serverConnectionId": 66, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 15:08:30,634:DEBUG:Inserted document IDs: [ObjectId('6656f796484d911d03842a4e'), ObjectId('6656f796484d911d03842a4f'), ObjectId('6656f796484d911d03842a50'), ObjectId('6656f796484d911d03842a51'), ObjectId('6656f796484d911d03842a52'), ObjectId('6656f796484d911d03842a53'), ObjectId('6656f796484d911d03842a54'), ObjectId('6656f796484d911d03842a55'), ObjectId('6656f796484d911d03842a56'), ObjectId('6656f796484d911d03842a57'), ObjectId('6656f796484d911d03842a58'), ObjectId('6656f796484d911d03842a59'), ObjectId('6656f796484d911d03842a5a'), ObjectId('6656f796484d911d03842a5b'), ObjectId('6656f796484d911d03842a5c'), ObjectId('6656f796484d911d03842a5d')]
+2024-05-29 15:08:30,637:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 15:08:44,325:DEBUG:https://www.scrapethissite.com:443 "GET /pages/forms/ HTTP/1.1" 200 None
+2024-05-29 15:08:44,511:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/forms/
+2024-05-29 15:08:44,511:DEBUG:Raw HTML content: <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Hockey Teams: Forms, Searching and Pagination | Scrape This Site | A public sandbox for learning web scraping</title>
+    <link rel="icon" type="image/png" href="/static/images/scraper-icon.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Browse through a database of NHL team stats since 1990. Practice building a scraper that handles common website interface components.">
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
+
+   
+2024-05-29 15:08:44,551:DEBUG:Forms Data: []
+2024-05-29 15:08:44,552:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 15:08:47,821:DEBUG:https://www.scrapethissite.com:443 "GET /pages/advanced/ HTTP/1.1" 200 None
+2024-05-29 15:08:47,848:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/advanced/
+2024-05-29 15:08:47,848:DEBUG:Raw HTML content: <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Advanced Topics: Real World Challenges You&#39;ll Encounter | Scrape This Site | A public sandbox for learning web scraping</title>
+    <link rel="icon" type="image/png" href="/static/images/scraper-icon.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Scraping real websites, you&#39;re likely run into a number of common gotchas. Get practice with spoofing headers, handling logins &amp; session cookies, finding CSRF tokens, and other common network errors.">
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='t
+2024-05-29 15:08:47,869:DEBUG:Advanced Data: []
+2024-05-29 15:08:47,869:DEBUG:Done
+2024-05-29 15:16:02,860:DEBUG:Connected to MongoDB
+2024-05-29 15:16:02,864:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 15:16:05,037:DEBUG:https://www.scrapethissite.com:443 "GET /pages/ajax-javascript/?ajax=true&year=2015 HTTP/1.1" 200 None
+2024-05-29 15:16:05,038:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/ajax-javascript/?ajax=true&year=2015
+2024-05-29 15:16:05,038:DEBUG:Raw response content: [
+  {
+    "title": "Spotlight  ",
+    "year": 2015,
+    "awards": 2,
+    "nominations": 6,
+    "best_picture": true
+  },
+  {
+    "title": "Mad Max: Fury Road ",
+    "year": 2015,
+    "awards": 6,
+    "nominations": 10
+  },
+  {
+    "title": "The Revenant   ",
+    "year": 2015,
+    "awards": 3,
+    "nominations": 12
+  },
+  {
+    "title": "Bridge of Spies",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 6
+  },
+  {
+    "title": "The Big Short  ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 5
+  },
+  {
+    "title": "The Danish Girl",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 4
+  },
+  {
+    "title": "Room   ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 4
+  },
+  {
+    "title": "Ex Machina ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "title": "The Hateful Eight  ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "title": "Inside Out ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "tit
+2024-05-29 15:16:05,040:DEBUG:AJAX Data: [{'title': 'Spotlight  ', 'year': 2015, 'awards': 2, 'nominations': 6, 'best_picture': True}, {'title': 'Mad Max: Fury Road ', 'year': 2015, 'awards': 6, 'nominations': 10}, {'title': 'The Revenant   ', 'year': 2015, 'awards': 3, 'nominations': 12}, {'title': 'Bridge of Spies', 'year': 2015, 'awards': 1, 'nominations': 6}, {'title': 'The Big Short  ', 'year': 2015, 'awards': 1, 'nominations': 5}, {'title': 'The Danish Girl', 'year': 2015, 'awards': 1, 'nominations': 4}, {'title': 'Room   ', 'year': 2015, 'awards': 1, 'nominations': 4}, {'title': 'Ex Machina ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'The Hateful Eight  ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'Inside Out ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'Amy', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Bear Story ', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'A Girl in the River: The Price of Forgiveness  ', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Son of Saul', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Spectre', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Stutterer  ', 'year': 2015, 'awards': 1, 'nominations': 1}]
+2024-05-29 15:16:05,041:DEBUG:Inserting 16 documents into ajax_data collection
+2024-05-29 15:16:05,041:DEBUG:{"message": "Server selection started", "selector": "<function writable_server_selector at 0x000002659F206D40>", "operation": "insert", "operationId": 1219175343, "topologyDescription": "<TopologyDescription id: 6656f95ad5cd2bc42e9eff0a, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Standalone, rtt: 0.0>]>", "clientId": {"$oid": "6656f95ad5cd2bc42e9eff0a"}}
+2024-05-29 15:16:05,042:DEBUG:{"message": "Server selection succeeded", "selector": "<function writable_server_selector at 0x000002659F206D40>", "operation": "insert", "operationId": 1219175343, "topologyDescription": "<TopologyDescription id: 6656f95ad5cd2bc42e9eff0a, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Standalone, rtt: 0.0>]>", "clientId": {"$oid": "6656f95ad5cd2bc42e9eff0a"}, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 15:16:05,047:DEBUG:{"clientId": {"$oid": "6656f95ad5cd2bc42e9eff0a"}, "message": "Command started", "command": "{\"insert\": \"ajax_data\", \"ordered\": true, \"lsid\": {\"id\": {\"$binary\": {\"base64\": \"HJ+kEEiyQ/KPk0K6Mml6PQ==\", \"subType\": \"04\"}}}, \"$db\": \"scraped_data\", \"documents\": [{\"title\": \"Spotlight  \", \"year\": 2015, \"awards\": 2, \"nominations\": 6, \"best_picture\": true, \"_id\": {\"$oid\": \"6656f95dd5cd2bc42e9eff0b\"}}, {\"title\": \"Mad Max: Fury Road \", \"year\": 2015, \"awards\": 6, \"nominations\": 10, \"_id\": {\"$oid\": \"6656f95dd5cd2bc42e9eff0c\"}}, {\"title\": \"The Revenant   \", \"year\": 2015, \"awards\": 3, \"nominations\": 12, \"_id\": {\"$oid\": \"6656f95dd5cd2bc42e9eff0d\"}}, {\"title\": \"Bridge of Spies\", \"year\": 2015, \"awards\": 1, \"nominations\": 6, \"_id\": {\"$oid\": \"6656f95dd5cd2bc42e9eff0e\"}}, {\"title\": \"The Big Short  \", \"year\": 2015, \"awards\": 1, \"nominations\": 5, \"_id\": {\"$oid\": \"6656f95dd5cd2bc42e9eff0f\"}}, {\"title\": \"The Danish Girl\", \"year\": 2015, \"awards\": 1, \"nominations\": 4, \"_id\": {\"$oid\": \"6656f95dd5cd2bc42e9eff10\"}}, {\"title\": \"Room   \", \"year\": 2015, \"awards\": 1, \"nominations\": 4, \"_id\": {\"$oid\": \"6656f95dd...", "commandName": "insert", "databaseName": "scraped_data", "requestId": 18467, "operationId": 18467, "driverConnectionId": 1, "serverConnectionId": 69, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 15:16:05,050:DEBUG:{"clientId": {"$oid": "6656f95ad5cd2bc42e9eff0a"}, "message": "Command succeeded", "durationMS": 2.993, "reply": "{\"n\": 16, \"ok\": 1.0}", "commandName": "insert", "databaseName": "scraped_data", "requestId": 18467, "operationId": 18467, "driverConnectionId": 1, "serverConnectionId": 69, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 15:16:05,051:DEBUG:Inserted document IDs: [ObjectId('6656f95dd5cd2bc42e9eff0b'), ObjectId('6656f95dd5cd2bc42e9eff0c'), ObjectId('6656f95dd5cd2bc42e9eff0d'), ObjectId('6656f95dd5cd2bc42e9eff0e'), ObjectId('6656f95dd5cd2bc42e9eff0f'), ObjectId('6656f95dd5cd2bc42e9eff10'), ObjectId('6656f95dd5cd2bc42e9eff11'), ObjectId('6656f95dd5cd2bc42e9eff12'), ObjectId('6656f95dd5cd2bc42e9eff13'), ObjectId('6656f95dd5cd2bc42e9eff14'), ObjectId('6656f95dd5cd2bc42e9eff15'), ObjectId('6656f95dd5cd2bc42e9eff16'), ObjectId('6656f95dd5cd2bc42e9eff17'), ObjectId('6656f95dd5cd2bc42e9eff18'), ObjectId('6656f95dd5cd2bc42e9eff19'), ObjectId('6656f95dd5cd2bc42e9eff1a')]
+2024-05-29 15:16:05,052:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 15:16:06,620:DEBUG:https://www.scrapethissite.com:443 "GET /pages/forms/ HTTP/1.1" 200 None
+2024-05-29 15:16:06,795:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/forms/
+2024-05-29 15:16:06,795:DEBUG:Raw HTML content: <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Hockey Teams: Forms, Searching and Pagination | Scrape This Site | A public sandbox for learning web scraping</title>
+    <link rel="icon" type="image/png" href="/static/images/scraper-icon.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Browse through a database of NHL team stats since 1990. Practice building a scraper that handles common website interface components.">
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
+
+   
+2024-05-29 15:16:06,841:DEBUG:Team HTML sections: []
+2024-05-29 15:16:06,841:DEBUG:Forms Data: []
+2024-05-29 15:16:06,842:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 15:16:08,191:DEBUG:https://www.scrapethissite.com:443 "GET /pages/advanced/ HTTP/1.1" 200 None
+2024-05-29 15:16:08,193:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/advanced/
+2024-05-29 15:16:08,193:DEBUG:Raw HTML content: <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Advanced Topics: Real World Challenges You&#39;ll Encounter | Scrape This Site | A public sandbox for learning web scraping</title>
+    <link rel="icon" type="image/png" href="/static/images/scraper-icon.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Scraping real websites, you&#39;re likely run into a number of common gotchas. Get practice with spoofing headers, handling logins &amp; session cookies, finding CSRF tokens, and other common network errors.">
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='t
+2024-05-29 15:16:08,210:DEBUG:Advanced Data: []
+2024-05-29 15:16:08,210:DEBUG:Done
+2024-05-29 16:08:58,097:DEBUG:Connected to MongoDB
+2024-05-29 16:11:08,098:DEBUG:Connected to MongoDB
+2024-05-29 16:11:08,105:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 16:11:08,106:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 16:11:08,106:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 16:11:12,022:DEBUG:https://www.scrapethissite.com:443 "GET /pages/advanced/ HTTP/1.1" 200 None
+2024-05-29 16:11:12,025:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/advanced/
+2024-05-29 16:11:12,063:DEBUG:https://www.scrapethissite.com:443 "GET /pages/ajax-javascript/?ajax=true&year=2015 HTTP/1.1" 200 None
+2024-05-29 16:11:12,065:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/ajax-javascript/?ajax=true&year=2015
+2024-05-29 16:11:12,764:DEBUG:https://www.scrapethissite.com:443 "GET /pages/forms/ HTTP/1.1" 200 None
+2024-05-29 16:11:12,945:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/forms/
+2024-05-29 16:11:13,026:DEBUG:Raw HTML content: <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Advanced Topics: Real World Challenges You&#39;ll Encounter | Scrape This Site | A public sandbox for learning web scraping</title>
+    <link rel="icon" type="image/png" href="/static/images/scraper-icon.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Scraping real websites, you&#39;re likely run into a number of common gotchas. Get practice with spoofing headers, handling logins &amp; session cookies, finding CSRF tokens, and other common network errors.">
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='t
+2024-05-29 16:11:13,081:DEBUG:Raw response content: [
+  {
+    "title": "Spotlight  ",
+    "year": 2015,
+    "awards": 2,
+    "nominations": 6,
+    "best_picture": true
+  },
+  {
+    "title": "Mad Max: Fury Road ",
+    "year": 2015,
+    "awards": 6,
+    "nominations": 10
+  },
+  {
+    "title": "The Revenant   ",
+    "year": 2015,
+    "awards": 3,
+    "nominations": 12
+  },
+  {
+    "title": "Bridge of Spies",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 6
+  },
+  {
+    "title": "The Big Short  ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 5
+  },
+  {
+    "title": "The Danish Girl",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 4
+  },
+  {
+    "title": "Room   ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 4
+  },
+  {
+    "title": "Ex Machina ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "title": "The Hateful Eight  ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "title": "Inside Out ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "tit
+2024-05-29 16:11:13,084:DEBUG:AJAX Data: [{'title': 'Spotlight  ', 'year': 2015, 'awards': 2, 'nominations': 6, 'best_picture': True}, {'title': 'Mad Max: Fury Road ', 'year': 2015, 'awards': 6, 'nominations': 10}, {'title': 'The Revenant   ', 'year': 2015, 'awards': 3, 'nominations': 12}, {'title': 'Bridge of Spies', 'year': 2015, 'awards': 1, 'nominations': 6}, {'title': 'The Big Short  ', 'year': 2015, 'awards': 1, 'nominations': 5}, {'title': 'The Danish Girl', 'year': 2015, 'awards': 1, 'nominations': 4}, {'title': 'Room   ', 'year': 2015, 'awards': 1, 'nominations': 4}, {'title': 'Ex Machina ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'The Hateful Eight  ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'Inside Out ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'Amy', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Bear Story ', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'A Girl in the River: The Price of Forgiveness  ', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Son of Saul', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Spectre', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Stutterer  ', 'year': 2015, 'awards': 1, 'nominations': 1}]
+2024-05-29 16:11:13,092:DEBUG:Inserting 16 documents into ajax_data collection
+2024-05-29 16:11:13,092:DEBUG:{"message": "Server selection started", "selector": "<function writable_server_selector at 0x00000204025DECA0>", "operation": "insert", "operationId": 291443076, "topologyDescription": "<TopologyDescription id: 665706445d79a0a78eb9b430, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Standalone, rtt: 0.0>]>", "clientId": {"$oid": "665706445d79a0a78eb9b430"}}
+2024-05-29 16:11:13,093:DEBUG:{"message": "Server selection succeeded", "selector": "<function writable_server_selector at 0x00000204025DECA0>", "operation": "insert", "operationId": 291443076, "topologyDescription": "<TopologyDescription id: 665706445d79a0a78eb9b430, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Standalone, rtt: 0.0>]>", "clientId": {"$oid": "665706445d79a0a78eb9b430"}, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 16:11:13,101:DEBUG:{"clientId": {"$oid": "665706445d79a0a78eb9b430"}, "message": "Command started", "command": "{\"insert\": \"ajax_data\", \"ordered\": true, \"lsid\": {\"id\": {\"$binary\": {\"base64\": \"8oISVTSWQIm7a9i3tCgi/Q==\", \"subType\": \"04\"}}}, \"$db\": \"scraped_data\", \"documents\": [{\"title\": \"Spotlight  \", \"year\": 2015, \"awards\": 2, \"nominations\": 6, \"best_picture\": true, \"_id\": {\"$oid\": \"665706495d79a0a78eb9b431\"}}, {\"title\": \"Mad Max: Fury Road \", \"year\": 2015, \"awards\": 6, \"nominations\": 10, \"_id\": {\"$oid\": \"665706495d79a0a78eb9b432\"}}, {\"title\": \"The Revenant   \", \"year\": 2015, \"awards\": 3, \"nominations\": 12, \"_id\": {\"$oid\": \"665706495d79a0a78eb9b433\"}}, {\"title\": \"Bridge of Spies\", \"year\": 2015, \"awards\": 1, \"nominations\": 6, \"_id\": {\"$oid\": \"665706495d79a0a78eb9b434\"}}, {\"title\": \"The Big Short  \", \"year\": 2015, \"awards\": 1, \"nominations\": 5, \"_id\": {\"$oid\": \"665706495d79a0a78eb9b435\"}}, {\"title\": \"The Danish Girl\", \"year\": 2015, \"awards\": 1, \"nominations\": 4, \"_id\": {\"$oid\": \"665706495d79a0a78eb9b436\"}}, {\"title\": \"Room   \", \"year\": 2015, \"awards\": 1, \"nominations\": 4, \"_id\": {\"$oid\": \"665706495...", "commandName": "insert", "databaseName": "scraped_data", "requestId": 18467, "operationId": 18467, "driverConnectionId": 1, "serverConnectionId": 74, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 16:11:13,105:DEBUG:{"clientId": {"$oid": "665706445d79a0a78eb9b430"}, "message": "Command succeeded", "durationMS": 4.5040000000000004, "reply": "{\"n\": 16, \"ok\": 1.0}", "commandName": "insert", "databaseName": "scraped_data", "requestId": 18467, "operationId": 18467, "driverConnectionId": 1, "serverConnectionId": 74, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 16:11:13,106:DEBUG:Inserted document IDs: [ObjectId('665706495d79a0a78eb9b431'), ObjectId('665706495d79a0a78eb9b432'), ObjectId('665706495d79a0a78eb9b433'), ObjectId('665706495d79a0a78eb9b434'), ObjectId('665706495d79a0a78eb9b435'), ObjectId('665706495d79a0a78eb9b436'), ObjectId('665706495d79a0a78eb9b437'), ObjectId('665706495d79a0a78eb9b438'), ObjectId('665706495d79a0a78eb9b439'), ObjectId('665706495d79a0a78eb9b43a'), ObjectId('665706495d79a0a78eb9b43b'), ObjectId('665706495d79a0a78eb9b43c'), ObjectId('665706495d79a0a78eb9b43d'), ObjectId('665706495d79a0a78eb9b43e'), ObjectId('665706495d79a0a78eb9b43f'), ObjectId('665706495d79a0a78eb9b440')]
+2024-05-29 16:11:13,946:DEBUG:Raw HTML content: <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Hockey Teams: Forms, Searching and Pagination | Scrape This Site | A public sandbox for learning web scraping</title>
+    <link rel="icon" type="image/png" href="/static/images/scraper-icon.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Browse through a database of NHL team stats since 1990. Practice building a scraper that handles common website interface components.">
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
+
+   
+2024-05-29 16:12:29,327:DEBUG:Connected to MongoDB
+2024-05-29 16:12:29,330:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 16:12:31,998:DEBUG:https://www.scrapethissite.com:443 "GET /pages/ajax-javascript/?ajax=true&year=2015 HTTP/1.1" 200 None
+2024-05-29 16:12:32,000:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/ajax-javascript/?ajax=true&year=2015
+2024-05-29 16:12:32,000:DEBUG:Raw response content: [
+  {
+    "title": "Spotlight  ",
+    "year": 2015,
+    "awards": 2,
+    "nominations": 6,
+    "best_picture": true
+  },
+  {
+    "title": "Mad Max: Fury Road ",
+    "year": 2015,
+    "awards": 6,
+    "nominations": 10
+  },
+  {
+    "title": "The Revenant   ",
+    "year": 2015,
+    "awards": 3,
+    "nominations": 12
+  },
+  {
+    "title": "Bridge of Spies",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 6
+  },
+  {
+    "title": "The Big Short  ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 5
+  },
+  {
+    "title": "The Danish Girl",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 4
+  },
+  {
+    "title": "Room   ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 4
+  },
+  {
+    "title": "Ex Machina ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "title": "The Hateful Eight  ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "title": "Inside Out ",
+    "year": 2015,
+    "awards": 1,
+    "nominations": 2
+  },
+  {
+    "tit
+2024-05-29 16:12:32,004:DEBUG:AJAX Data: [{'title': 'Spotlight  ', 'year': 2015, 'awards': 2, 'nominations': 6, 'best_picture': True}, {'title': 'Mad Max: Fury Road ', 'year': 2015, 'awards': 6, 'nominations': 10}, {'title': 'The Revenant   ', 'year': 2015, 'awards': 3, 'nominations': 12}, {'title': 'Bridge of Spies', 'year': 2015, 'awards': 1, 'nominations': 6}, {'title': 'The Big Short  ', 'year': 2015, 'awards': 1, 'nominations': 5}, {'title': 'The Danish Girl', 'year': 2015, 'awards': 1, 'nominations': 4}, {'title': 'Room   ', 'year': 2015, 'awards': 1, 'nominations': 4}, {'title': 'Ex Machina ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'The Hateful Eight  ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'Inside Out ', 'year': 2015, 'awards': 1, 'nominations': 2}, {'title': 'Amy', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Bear Story ', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'A Girl in the River: The Price of Forgiveness  ', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Son of Saul', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Spectre', 'year': 2015, 'awards': 1, 'nominations': 1}, {'title': 'Stutterer  ', 'year': 2015, 'awards': 1, 'nominations': 1}]
+2024-05-29 16:12:32,004:DEBUG:Inserting 16 documents into ajax_data collection
+2024-05-29 16:12:32,005:DEBUG:{"message": "Server selection started", "selector": "<function writable_server_selector at 0x000002127A62ED40>", "operation": "insert", "operationId": 753586713, "topologyDescription": "<TopologyDescription id: 6657069573da07419befb907, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Standalone, rtt: 0.0>]>", "clientId": {"$oid": "6657069573da07419befb907"}}
+2024-05-29 16:12:32,005:DEBUG:{"message": "Server selection succeeded", "selector": "<function writable_server_selector at 0x000002127A62ED40>", "operation": "insert", "operationId": 753586713, "topologyDescription": "<TopologyDescription id: 6657069573da07419befb907, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Standalone, rtt: 0.0>]>", "clientId": {"$oid": "6657069573da07419befb907"}, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 16:12:32,009:DEBUG:{"clientId": {"$oid": "6657069573da07419befb907"}, "message": "Command started", "command": "{\"insert\": \"ajax_data\", \"ordered\": true, \"lsid\": {\"id\": {\"$binary\": {\"base64\": \"wNZ3QC5ISNKKJJMf7zfd5g==\", \"subType\": \"04\"}}}, \"$db\": \"scraped_data\", \"documents\": [{\"title\": \"Spotlight  \", \"year\": 2015, \"awards\": 2, \"nominations\": 6, \"best_picture\": true, \"_id\": {\"$oid\": \"6657069873da07419befb908\"}}, {\"title\": \"Mad Max: Fury Road \", \"year\": 2015, \"awards\": 6, \"nominations\": 10, \"_id\": {\"$oid\": \"6657069873da07419befb909\"}}, {\"title\": \"The Revenant   \", \"year\": 2015, \"awards\": 3, \"nominations\": 12, \"_id\": {\"$oid\": \"6657069873da07419befb90a\"}}, {\"title\": \"Bridge of Spies\", \"year\": 2015, \"awards\": 1, \"nominations\": 6, \"_id\": {\"$oid\": \"6657069873da07419befb90b\"}}, {\"title\": \"The Big Short  \", \"year\": 2015, \"awards\": 1, \"nominations\": 5, \"_id\": {\"$oid\": \"6657069873da07419befb90c\"}}, {\"title\": \"The Danish Girl\", \"year\": 2015, \"awards\": 1, \"nominations\": 4, \"_id\": {\"$oid\": \"6657069873da07419befb90d\"}}, {\"title\": \"Room   \", \"year\": 2015, \"awards\": 1, \"nominations\": 4, \"_id\": {\"$oid\": \"665706987...", "commandName": "insert", "databaseName": "scraped_data", "requestId": 18467, "operationId": 18467, "driverConnectionId": 1, "serverConnectionId": 77, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 16:12:32,012:DEBUG:{"clientId": {"$oid": "6657069573da07419befb907"}, "message": "Command succeeded", "durationMS": 4.0489999999999995, "reply": "{\"n\": 16, \"ok\": 1.0}", "commandName": "insert", "databaseName": "scraped_data", "requestId": 18467, "operationId": 18467, "driverConnectionId": 1, "serverConnectionId": 77, "serverHost": "localhost", "serverPort": 27017}
+2024-05-29 16:12:32,013:DEBUG:Inserted document IDs: [ObjectId('6657069873da07419befb908'), ObjectId('6657069873da07419befb909'), ObjectId('6657069873da07419befb90a'), ObjectId('6657069873da07419befb90b'), ObjectId('6657069873da07419befb90c'), ObjectId('6657069873da07419befb90d'), ObjectId('6657069873da07419befb90e'), ObjectId('6657069873da07419befb90f'), ObjectId('6657069873da07419befb910'), ObjectId('6657069873da07419befb911'), ObjectId('6657069873da07419befb912'), ObjectId('6657069873da07419befb913'), ObjectId('6657069873da07419befb914'), ObjectId('6657069873da07419befb915'), ObjectId('6657069873da07419befb916'), ObjectId('6657069873da07419befb917')]
+2024-05-29 16:12:32,015:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 16:12:34,700:DEBUG:https://www.scrapethissite.com:443 "GET /pages/forms/ HTTP/1.1" 200 None
+2024-05-29 16:12:34,750:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/forms/
+2024-05-29 16:12:34,750:DEBUG:Raw HTML content: <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Hockey Teams: Forms, Searching and Pagination | Scrape This Site | A public sandbox for learning web scraping</title>
+    <link rel="icon" type="image/png" href="/static/images/scraper-icon.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Browse through a database of NHL team stats since 1990. Practice building a scraper that handles common website interface components.">
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
+
+   
+2024-05-29 16:12:34,840:DEBUG:Team HTML sections: []
+2024-05-29 16:12:34,841:DEBUG:Forms Data: []
+2024-05-29 16:12:34,843:DEBUG:Starting new HTTPS connection (1): www.scrapethissite.com:443
+2024-05-29 16:12:36,281:DEBUG:https://www.scrapethissite.com:443 "GET /pages/advanced/ HTTP/1.1" 200 None
+2024-05-29 16:12:36,283:DEBUG:Successfully fetched URL: https://www.scrapethissite.com/pages/advanced/
+2024-05-29 16:12:36,284:DEBUG:Raw HTML content: <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Advanced Topics: Real World Challenges You&#39;ll Encounter | Scrape This Site | A public sandbox for learning web scraping</title>
+    <link rel="icon" type="image/png" href="/static/images/scraper-icon.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Scraping real websites, you&#39;re likely run into a number of common gotchas. Get practice with spoofing headers, handling logins &amp; session cookies, finding CSRF tokens, and other common network errors.">
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='t
+2024-05-29 16:12:36,319:DEBUG:Advanced Data: []
+2024-05-29 16:12:36,320:DEBUG:Done
